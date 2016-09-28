@@ -1,0 +1,12 @@
+{
+  "templates": {
+    "comp": {
+      "path": "./temps/COMP/",
+      "output": "./src/comps"
+    }
+  },
+
+  "variables": {
+    "$CSS": "styl"
+  }
+}
